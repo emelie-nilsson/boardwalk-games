@@ -87,6 +87,9 @@ font-family: var(--secondary-font);
     color: var(--secondary-color);
 
 }
+#contact .table-dark * {
+    background-color: transparent;
+}
 
 
 /*Grid visualisation CSS for testing
