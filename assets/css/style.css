@@ -24,11 +24,19 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
-/*Grid visualisation CSS for testing*/
+/*Navbar*/
+#navbar {
+    background-color: var(--primary-color);
+}
+#navbar .logo {
+    width: 30px;
+}
+
+/*Grid visualisation CSS for testing
 .row {
     border: 2px solid black;
 }
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
+}*/
